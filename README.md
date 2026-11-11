@@ -11,6 +11,7 @@ No setup needed. Each badge opens the file in a free online Python editor and ru
 | [`Bmi.py`](./Bmi.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Bmi.py) |
 | [`Cloudy.py`](./Cloudy.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Cloudy.py) |
 | [`Fee.py`](./Fee.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Fee.py) |
+| [`Loan.py`](./Loan.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Loan.py) |
 | [`Retire.py`](./Retire.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Retire.py) |
 | [`main.py`](./main.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/main.py) |
 | [`untitled.py`](./untitled.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/untitled.py) |
