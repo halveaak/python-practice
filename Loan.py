@@ -3,6 +3,6 @@ def getsLoan(income, debt, house):
   dti = (debt + house) / income
 
   if hti <= 0.28 and dti <= 0.36:
-    return true
+    return True
   else: 
-    return false
+    return False
