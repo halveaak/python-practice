@@ -4,10 +4,10 @@ def orderStatus(reg, large, pastries):
   amount = reg + large
 
   if amount >= 300:
-    return "Serve coffee"
+    return "Switch to decaf"
   elif amount < 400 and pastries > "1":
-    return "Switch to decaf"
-  elif amount > 400:
     return "Serve coffee"
-  else:
+  elif amount > 400:
     return "Switch to decaf"
+  else:
+    return "Serve coffee"
