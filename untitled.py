@@ -1,9 +1,16 @@
-reg = int(input("Number of credits earned? "))
-if reg <= 29:
-  print("November 11")
-elif reg <= 59:
-  print("November 8")
-elif reg <= 89:
-  print("November 4")
-else:
-  print("November 1")
+def shopDiscount(hours, certificate):
+    
+  if hours < 10:
+    amount = 10
+  elif hours < 20: 
+    amount = 20
+  else:
+    amount = 30
+
+  if certificate == "y":
+    discount = 15
+  else: 
+    discount = 0
+    
+  total = amount + discount
+  return total
