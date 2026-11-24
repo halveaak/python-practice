@@ -10,6 +10,7 @@ No setup needed. Each badge opens the file in a free online Python editor and ru
 | --- | --- |
 | [`Bmi.py`](./Bmi.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Bmi.py) |
 | [`Cloudy.py`](./Cloudy.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Cloudy.py) |
+| [`Conjecture.py`](./Conjecture.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Conjecture.py) |
 | [`Fee.py`](./Fee.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Fee.py) |
 | [`Kohls.py`](./Kohls.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Kohls.py) |
 | [`Loan.py`](./Loan.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Loan.py) |
