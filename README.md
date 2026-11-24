@@ -9,6 +9,7 @@ No setup needed. Each badge opens the file in a free online Python editor and ru
 | File | |
 | --- | --- |
 | [`Bmi.py`](./Bmi.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Bmi.py) |
+| [`Circle.py`](./Circle.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Circle.py) |
 | [`Cloudy.py`](./Cloudy.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Cloudy.py) |
 | [`Conjecture.py`](./Conjecture.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Conjecture.py) |
 | [`Fee.py`](./Fee.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=halveaak/python-practice/main/Fee.py) |
